@@ -18,7 +18,7 @@
 <p><img src="images/profile.jpg" style="float:left" width="40%"></p>
 <div style="margin: 20px 0px auto">
 <ul>
-  <div style="font-size:18px; margin:auto">
+  <div style="font-size:16px; margin:auto">
   <li style="margin: 10px 0px 10px">名前：川畑 光平</li>
   <li style="margin: 10px 0px 10px">所属：デジタル技術部アジャイルプロフェッショナルセンタ</li>
   <li style="margin: 10px 0px 10px">今の仕事：プロジェクト支援(主にクラウド系)とR&amp;D</li>
@@ -62,7 +62,7 @@
 
 ### Cell-based Architecture
 
-![image](images/keynote.png)
+<p><a href="https://youtu.be/OdzaTbaQwTg?t=2421" target="_blank"><img src="images/keynote.png" width="100%"></a></p>
 
 ---
 
@@ -194,7 +194,7 @@ Cell-based Architectureは当社の抱える、ラージスケールなアプリ
 
 ### Impressive New Service
 
-<p><img src="images/codeguru.png" width="100%"></p>
+<p><a href="https://youtu.be/7-31KgImGgU?t=7066" target="_blank"><img src="images/codeguru.png" width="100%"></a></p>
 
 ---
 
