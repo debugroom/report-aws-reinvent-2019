@@ -1,0 +1,8 @@
+theme: "night"
+transition: "page"
+title: "re:invent-2019"
+revealjs_config:
+  autoSlide: 0
+  loop: false
+  slideNumber: true
+  autoPlayMedia: true
