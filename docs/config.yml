@@ -1,4 +1,4 @@
-theme: "night"
+theme: "black"
 transition: "page"
 title: "re:invent-2019"
 revealjs_config:
